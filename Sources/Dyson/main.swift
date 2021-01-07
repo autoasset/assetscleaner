@@ -1,0 +1,5 @@
+import DysonCore
+
+DysonImageCleaner.main()
+
+
